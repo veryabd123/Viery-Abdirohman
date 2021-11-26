@@ -22,10 +22,10 @@
 
                 if($execute){
                     echo "Data Berhasil Dihapus<br>";
-                    echo "<a href='beranda.php'>Tekan untuk kembali ke Beranda</a>";
+                    echo "<a href='home.php'>Tekan untuk kembali ke Beranda</a>";
                 } else {
                     echo "Data Gagal Dihapus<br>";
-                    echo "<a href='beranda.php'>Tekan untuk kembali ke Beranda</a>";
+                    echo "<a href='home.php'>Tekan untuk kembali ke Beranda</a>";
                 }
             }
 	    ?>
